@@ -882,7 +882,7 @@
 	}
 
 	#header {
-		background: #fff;
+		background: #000000;
 		color: #555f66;
 		cursor: default;
 		height: 3em;
@@ -939,7 +939,7 @@
 						-o-transition: color 0.2s ease-in-out;
 						-ms-transition: color 0.2s ease-in-out;
 						transition: color 0.2s ease-in-out;
-						color: #555f66;
+						color: #FCF5F4;
 						display: inline-block;
 						text-decoration: none;
 					}
@@ -978,7 +978,7 @@
 
 	#banner {
 		background-color: #666666;
-		background-image: url("../images/banner.jpg");
+		background-image: url("../images/banner1.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-repeat: no-repeat;
