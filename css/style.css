@@ -40,6 +40,15 @@
 			text-align: left;
 		}
 
+		.paragraph2 {
+			color: #000000
+			font-family: "Roboto", Helvetica, sans-serif;
+			font-size: 14px;
+			font-weight: 300;
+			line-height: 1.75em;
+			text-align: left;
+		}
+
 	strong, b {
 		color: #666f77;
 		font-weight: 500;
