@@ -158,6 +158,7 @@
 .nav > li.nav-search input[type="text"]:focus,
 .nav > li.nav-search:hover input[type="text"] {
     width: 110px;
+		height: 54px;
     padding: 15px 20px;
 
     -webkit-transition: all .3s ease .1s;
