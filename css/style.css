@@ -95,7 +95,7 @@
     display: block;
     z-index: 510;
     height: 54px;
-    padding: 0 20px;
+    padding: 0 35px;
     line-height: 54px;
 
     font-family: Helvetica, Arial, sans-serif;
@@ -127,7 +127,7 @@
     width: inherit;
     height: 54px;
     z-index: 510;
-    border-left: 1px solid #4b4441;
+    border-left: 1px solid #000000;
 }
 
 .nav > li.nav-search input[type="text"] {
@@ -144,7 +144,7 @@
     color: #999999;
     text-shadow: 0 0 1px rgba(0,0,0,.35);
 
-    background: #372f2b;
+    background: #000000;
 
     -webkit-transition: all .3s ease 1s;
     -moz-transition: all .3s ease 1s;
