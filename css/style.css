@@ -71,7 +71,7 @@
     padding: 0;
     border: none;
     outline: none;
-		float: right;
+		float: left;
 }
 
 .nav a { text-decoration: none; }
