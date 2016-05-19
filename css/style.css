@@ -247,6 +247,39 @@
 
 .nav .nav-column li a:hover { color: #666666; }
 
+/* Nav mods for Bio & CV tab */
+
+.nav .nav-column1 {
+    float: left;
+    width: 50%;
+    padding: 2.5%;
+}
+
+.nav .nav-column1 h3 {
+    margin: 20px 0 10px 0;
+    line-height: 18px;
+
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    color: #372f2b;
+    text-transform: uppercase;
+}
+
+.nav .nav-column1 h3.orange { color: #ff722b; }
+
+.nav .nav-column1 li a {
+    display: block;
+    line-height: 26px;
+
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+    color: #888888;
+}
+
+.nav .nav-column1 li a:hover { color: #666666; }
+
 /* Mega Menu End */
 
 	strong, b {
