@@ -1,0 +1,184 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+.link {
+  fill: none;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+#Total {
+  fill: gray;
+}
+
+.whitman {
+  stroke: black;
+  fill: none;
+  stroke-width: 1.5px;
+}
+
+.notwhitman {
+  stroke: black;
+  fill: none;
+  stroke-width: 1.5px;
+}
+
+circle {
+  fill: #ccc;
+  stroke: #333;
+  stroke-width: 1.5;
+}
+
+text {
+  font: 10px sans-serif;
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
+}
+</style>
+<body>
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+
+</select>
+
+<script>
+// http://blog.thomsonreuters.com/index.php/mobile-patent-suits-graphic-of-the-day/
+
+var nodes = {};
+var links = [];
+var width = $(window).width();
+var height = $(window).height();
+var linkdistance = height / 2.5;
+
+
+d3.csv("data/Whitman.csv", function(csv) {
+
+  var collection = [];
+
+  var cnt = 0;
+  csv.forEach(function (d){
+
+    collection.push(
+      {
+        "source" : d.Sender,
+        "target" : d.Recipient,
+        "Total" : 1,
+        "group" : d.group
+      }
+    );
+
+  });
+
+
+  // $.each(collection, function(i, link) {
+  //   if (link.source == link.target) {
+  //     var node = {
+  //       name : link.source,
+  //       Total : link.Total,
+  //       group : link.group
+  //     }
+  //
+  //     nodes[link.source] = node;
+  //   }
+  // });
+
+  $.each(collection, function(i, link) {
+    if (link.source != link.target) {
+      link.source = nodes[link.source]
+      || (nodes[link.source] = createEmptyNode(
+        link.source, link.group));
+        link.target = nodes[link.target]
+        || (nodes[link.target] = createEmptyNode(
+          link.target, 0));
+          links.push(link);
+        }
+      });
+      drawGraph("Total");
+
+    });
+
+    function createEmptyNode(nodeId, group) {
+      var node = {
+        name : nodeId,
+        Total : 0,
+        group : group
+      }
+      return node;
+    }
+
+    function drawGraph(type) {
+
+      var force = d3.layout.force().nodes(d3.values(nodes)).links(links)
+      .size([ width, height ]).linkDistance(linkdistance).charge(
+        -300).on("tick", tick).start();
+
+        var svg = d3.select("body").append("svg").attr("width", width)
+        .attr("height", height);
+
+
+        var path = svg.append("g").selectAll("path").data(force.links())
+        .enter().append("path").attr("marker-end", function(d) {
+          return "url(#" + type + ")";
+        }).style("stroke-width", function(d) {
+          return Math.sqrt(d[type]) / 2;
+        }).attr("class", function(d) {
+
+          if(d.source.name == "Whitman; Walt"){
+            return "whitman";
+          }
+          else{
+            return "notwhitman";
+          }
+        });
+
+        var circle = svg.append("g").selectAll("circle")
+        .data(force.nodes()).enter().append("circle").attr("r",
+        function(d) {
+          return 4;
+        }).style("fill",
+        function(d) {
+          if(d.group == 1)
+          return "white";
+          else if(d.group == 2)
+          return "green";
+          else if(d.group == 3)
+          return "purple";
+          else if(d.group == 4)
+          return "yellow";
+          else if(d.group == 5)
+          return "orange";
+        }).call(force.drag);
+
+        var text = svg.append("g").selectAll("text").data(force.nodes())
+        .enter().append("text").attr("x", 8).attr("y", ".31em")
+        .text(function(d) {
+          return d.name;
+        });
+
+        // Use elliptical arc path segments to doubly-encode directionality.
+        function tick() {
+          path.attr("d", linkArc);
+          circle.attr("transform", transform);
+          text.attr("transform", transform);
+        }
+
+        function linkArc(d) {
+          var dx = d.target.x - d.source.x, dy = d.target.y - d.source.y, dr = Math
+          .sqrt(dx * dx + dy * dy);
+          return "M" + d.source.x + "," + d.source.y + "A" + dr + ","
+          + dr + " 0 0,1 " + d.target.x + "," + d.target.y;
+        }
+
+        function transform(d) {
+          return "translate(" + d.x + "," + d.y + ")";
+        }
+      }
+
+      function changeflowtype() {
+        d3.select("body").selectAll("svg").remove();
+        var e = document.getElementById("ddlViewBy");
+        var type = e.options[e.selectedIndex].value;
+        drawGraph(type);
+      }
+      </script>

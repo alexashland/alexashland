@@ -1,0 +1,60 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  margin: 0;
+}
+#map {
+  width: 100%;
+  height: 100%;
+}
+
+#timer {
+  font-family: "Times New Roman";
+  font-size: 30px;
+  text-align: center;
+}
+svg {
+  position: relative;
+}
+path {
+  fill: yellow;
+  stroke-width: 0.5px;
+  stroke: red;
+  stroke-opacity: 0.2;
+}
+.travelMarker {
+  fill: #2b8cbe;
+  opacity: 0;
+}
+.waypoints {
+  fill: black;
+  opacity: 0;
+}
+}
+.drinks {
+  stroke: black;
+  fill: red;
+}
+.lineConnect {
+  fill: none;
+  stroke: #2b8cbe;
+  stroke-width: 0.5px;
+  opacity: 0;
+}
+.locnames {
+  fill: black;
+  text-shadow: 1px 1px 1px #FFF, 3px 3px 5px #000;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+#timer {
+font-family: "Times New Roman";
+font-size: 30px;
+text-align: center;
+color: "white"
+
+}

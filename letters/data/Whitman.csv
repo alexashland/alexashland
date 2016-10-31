@@ -1,0 +1,471 @@
+Sender,Recipient,SenderLat,SenderLong,RecLat,RecLong,Date,Link,group
+Whitman; Walt,Harper's Magazine,40.678145,-73.944467,40.680048,-73.94318,1860-01-07,,1
+Whitman; Walt,New York Sunday Courier,40.678145,-73.944467,40.680048,-73.94318,1860-01-16,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00755.html,1
+Whitman; Walt,Lowell; James Russell,40.678145,-73.944467,42.358761,-71.063832,1860-01-20,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/uva.00342.html,1
+Thayer & Eldridge,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1860-02-10,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00560.html,5
+Thayer & Eldridge,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1860-02-27,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00561.html,5
+Thayer & Eldridge,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1860-03-02,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00562.html,5
+Whitman; Walt,Editor of the Atlantic Monthly,40.678145,-73.944467,42.358761,-71.063832,1860-03-02,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/prc.00003.html,1
+Ticknor & Fields,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1860-03-06,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/med.00319.html,5
+Thayer & Eldridge,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1860-03-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00563.html,5
+Thayer & Eldridge [DUPLICATE],Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1860-03-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.01002.html,5
+Thayer & Eldridge,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1860-03-09,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00564.html,5
+Vaughan; Fred,Whitman; Walt,40.680048,-73.94318,42.358761,-71.063832,1860-03-19,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00565.html,3
+Hine; Charles,Whitman; Walt,40.680048,-73.94318,42.358761,-71.063832,1860-03-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00566.html,3
+Vaughan; Fred,Whitman; Walt,40.680048,-73.94318,42.358761,-71.063832,1860-03-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00567.html,3
+Clapp Jr.; Henry,Whitman; Walt,40.680048,-73.94318,42.358761,-71.063832,1860-03-27,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00568.html,5
+Vaughan; Fred,Whitman; Walt,40.680048,-73.94318,42.358761,-71.063832,1860-03-27,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00569.html,3
+Whitman; Walt,Price; Abby H.,42.358761,-71.063832,40.680048,-73.94318,1860-03-29,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/pml.00011.html,1
+Whitman; Walt,Whitman; Thomas Jefferson,42.358761,-71.063832,40.678145,-73.944467,1860-04-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/wwh.00002.html,1
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,42.358761,-71.063832,1860-04-03,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00392.html,2
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,42.358761,-71.063832,1860-04-04,,2
+Sammis; O. K.,Whitman; Walt,40.678145,-73.944467,42.358761,-71.063832,1860-04-06,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00863.html,3
+Vaughan; Fred,Whitman; Walt,40.680048,-73.94318,42.358761,-71.063832,1860-04-09,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00570.html,3
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,42.358761,-71.063832,1860-04-16,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00393.html,2
+Baker; Frederick,Whitman; Walt,40.680048,-73.94318,42.358761,-71.063832,1860-04-23,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00848.html,3
+Whitman; Walt,Baker; Frederick,42.358761,-71.063832,40.680048,-73.94318,1860-04-24,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00756.html,1
+Vaughan; Fred,Whitman; Walt,40.680048,-73.94318,42.358761,-71.063832,1860-04-30,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00571.html,3
+Whitman; Walt,Thayer & Eldridge,40.678145,-73.944467,42.358761,-71.063832,1860-05-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00757.html,1
+Whitman; Walt,Whitman; Thomas Jefferson,42.358761,-71.063832,40.678145,-73.944467,1860-05-10,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/wwh.00003.html,1
+Clapp; Jr.; Henry,Whitman; Walt,40.680048,-73.94318,42.358761,-71.063832,1860-05-12,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/med.00326.html,5
+Clapp Jr.; Henry,Whitman; Walt,40.680048,-73.94318,42.358761,-71.063832,1860-05-14,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/med.00331.html,5
+Vaughan; Fred,Whitman; Walt,40.680048,-73.94318,42.358761,-71.063832,1860-05-17,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00572.html,3
+Heyde; Charles L.,Whitman; Walt,44.475929,-73.212229,42.358761,-71.063832,1860-05-18,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00384.html,3
+Vaughan; Fred,Whitman; Walt,42.358761,-71.063832,42.358761,-71.063832,1860-05-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00573.html,3
+Thayer & Eldridge,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1860-05-24,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00574.html,5
+Thayer; William Wilde,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1860-06-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00575.html,3
+Whitman; Walt,Clapp; Henry Jr.,40.678145,-73.944467,40.680048,-73.94318,1860-06-12,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/uva.00343.html,1
+Thayer & Eldridge,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1860-06-14,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00576.html,5
+Redpath; James,Whitman; Walt,42.425,-71.0667,40.678145,-73.944467,1860-06-25,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.01012.html,3
+Smith; Susan Garnet,Whitman; Walt,41.763505,-72.684722,40.678145,-73.944467,1860-07-11,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/med.00332.html,3
+Thayer & Eldridge,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1860-07-27,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00577.html,5
+Whitman; Walt,Thayer & Eldridge,40.678145,-73.944467,42.358761,-71.063832,1860-08-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00147.html,1
+Walton; Wilhelmina,Whitman; Walt,41.763711,-72.685093,40.678145,-73.944467,1860-08-16,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.01003.html,3
+Thayer & Eldridge,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1860-08-17,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00578.html,5
+Thayer & Eldridge,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1860-10-11,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00579.html,5
+Thayer & Eldridge,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1860-10-15,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00580.html,5
+Thayer & Eldridge [DUPLICATE],Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1860-10-15,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.01004.html,5
+Thayer & Eldridge,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1860-12-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00581.html,5
+Thayer & Eldridge,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1860-12-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00582.html,5
+Jewell; Harvey; Kendall; C.S.,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1861-02-06,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00583.html,5
+Thayer; William Wilde,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1861-04-19,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00584.html,5
+Whitman; Walt,Whitman; George Washington,40.678145,-73.944467,37.113553,-76.486965,1861-07-12,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00378.html,1
+Whitman; Walt,Lowell; James Russell,40.678145,-73.944467,42.358761,-71.063832,1861-10-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/prc.00004.html,1
+Whitman; Walt,Lowell; James Russell,40.678145,-73.944467,42.358761,-71.063832,1861-10-02,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/har.00051.html,1
+Editors of the Atlantic Monthly,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1861-10-10,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00585.html,5
+Whitman; Walt,Breese; Samuel Livingston,40.678145,-73.944467,40.678145,-73.944467,1861-11-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.01005.html,1
+Soule; Silas S.,Whitman; Walt,,,40.678145,-73.944467,1862-01-08,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00586.html,4
+Soule; Silas S.,Whitman; Walt,39.739236,-104.990251,40.678145,-73.944467,1862-03-12,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00587.html,4
+Eyre; Ellen,Whitman; Walt,40.680048,-73.94318,40.678145,-73.944467,1862-03-25,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00588.html,3
+Vaughan; Fred,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1862-05-02,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00589.html,3
+Redpath; James,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1862-05-26,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00859.html,3
+Thayer; William Wilde,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1862-08-31,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00590.html,3
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1862-12-19,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00394.html,2
+Whitman; Walt,Emerson; Ralph Waldo,38.896177,-77.036476,42.886156,-78.876677,1862-12-29,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/har.00050.html,1
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1862-12-29,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00758.html,1
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-01-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00395.html,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-01-03,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00396.html,2
+Emerson; Ralph Waldo,Whitman; Walt,42.886156,-78.876677,38.896177,-77.036476,1863-01-12,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00761.html,3
+Whitman; George Washington,Whitman; Walt,37.113553,-76.486965,38.896177,-77.036476,1863-01-13,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00334.html,2
+Wood; George,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1863-01-15,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00878.html,3
+Whitman; Walt,Whitman; Thomas Jefferson,38.896177,-77.036476,40.678145,-73.944467,1863-01-16,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/hyb.00003.html,1
+Whitman; Walt,Wood; George,38.896177,-77.036476,38.896177,-77.036476,1863-01-17,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/hav.00002.html,1
+Whitman; Walt,Emerson; Ralph Waldo,38.896177,-77.036476,42.886156,-78.876677,1863-01-17,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/uva.00344.html,1
+Lane; Moses,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-01-26,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00883.html,3
+Whitman; George Washington,Whitman; Walt,37.113553,-76.486965,38.896177,-77.036476,1863-02-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00336.html,2
+Whitman; George Washington,Whitman; Walt,37.113553,-76.486965,38.896177,-77.036476,1863-02-06,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00337.html,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-02-06,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00397.html,2
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-02-06,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00762.html,1
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-02-09,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00763.html,1
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-02-10,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00398.html,2
+Whitman; George Washington,Whitman; Walt,37.113553,-76.486965,38.896177,-77.036476,1863-02-12,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00339.html,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-02-12,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00399.html,2
+Whitman; Walt,Whitman; Thomas Jefferson,38.896177,-77.036476,40.678145,-73.944467,1863-02-13,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00764.html,1
+Whitman; Walt,Swinton; John,38.896177,-77.036476,40.680048,-73.94318,1863-02-23,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/bos.00006.html,1
+Whitman; George Washington,Whitman; Walt,37.113553,-76.486965,38.896177,-77.036476,1863-02-25,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00341.html,2
+Swinton; John,Whitman; Walt,40.680048,-73.94318,38.896177,-77.036476,1863-02-25,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00593.html,5
+Harpers Weekly,Whitman; Walt,40.680048,-73.94318,38.896177,-77.036476,1863-02-26,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00856.html,5
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-03-01,,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-03-03,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00400.html,2
+Whitman; Walt,Whitman; Thomas Jefferson,38.896177,-77.036476,40.678145,-73.944467,1863-03-06,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/wwh.00005.html,1
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-03-08,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/wwh.00006.html,1
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-03-09,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00401.html,2
+Redpath; James,Whitman; Walt,42.358761,-71.063832,38.896177,-77.036476,1863-03-10,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.01007.html,3
+Boyd; Justus F.,Whitman; Walt,42.735414,-83.982419,38.896177,-77.036476,1863-03-10,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00121.html,4
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-03-12,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00402.html,2
+Whitman; Walt,Whitman; Thomas Jefferson,38.896177,-77.036476,40.678145,-73.944467,1863-03-18,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/wwh.00007.html,1
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-03-19,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00310.html,2
+Whitman; Walt,Bloom; Nathaniel; Gray; John F. S.,38.896177,-77.036476,40.680048,-73.94318,1863-03-19,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/uva.00345.html,1
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-03-19,,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-03-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00403.html,2
+Kingsley; Charles S.,Whitman; Walt,40.680048,-73.94318,38.896177,-77.036476,1863-03-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00137.html,3
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-03-31,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00765.html,1
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-04-02,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00404.html,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-04-03,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00405.html,2
+Wallace; Will W.,Whitman; Walt,36.162664,-86.781602,38.896177,-77.036476,1863-04-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00594.html,3
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-04-06,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00406.html,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-04-11,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00407.html,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-04-13,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00408.html,2
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-04-15,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00766.html,1
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-04-20,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00409.html,2
+Whitman; Walt,Sawyer; Thomas P.,38.896177,-77.036476,40.680048,-73.94318,1863-04-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00180.html,1
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-04-25,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00410.html,2
+Sawyer; Thomas P.,Whitman; Walt,40.680048,-73.94318,38.896177,-77.036476,1863-04-26,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00138.html,4
+Whitman; Walt,Sawyer; Thomas P.,38.896177,-77.036476,40.680048,-73.94318,1863-04-26,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00181.html,1
+Boyd; Justus F.,Whitman; Walt,42.735414,-83.982419,38.896177,-77.036476,1863-04-27,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00122.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-04-28,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00767.html,1
+McReady; Fred B.,Whitman; Walt,37.990138,-84.179672,38.896177,-77.036476,1863-04-29,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00227.html,4
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-04-29,,2
+Gray; John F.S.,Whitman; Walt,40.680048,-73.94318,38.896177,-77.036476,1863-05-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00123.html,4
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-05-02,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00411.html,2
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-05-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00768.html,1
+Redpath; James,Whitman; Walt,42.358761,-71.063832,38.896177,-77.036476,1863-05-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.01008.html,3
+Wallace; Will W.,Whitman; Walt,40.680048,-73.94318,38.896177,-77.036476,1863-05-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00595.html,3
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-05-09,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00412.html,2
+Whitman; Walt,Lane; Moses,38.896177,-77.036476,40.678145,-73.944467,1863-05-11,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00769.html,1
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-05-12,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00413.html,2
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-05-13,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00770.html,1
+Whitman; Walt,Wyckoff; Nicholas; Northrup; Daniel L.,38.896177,-77.036476,40.678145,-73.944467,1863-05-14,,1
+Boyd; Justus F.,Whitman; Walt,42.735414,-83.982419,38.896177,-77.036476,1863-05-14,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00139.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-05-19,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00771.html,1
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-05-26,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00772.html,1
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-05-27,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00414.html,2
+Lane; Moses,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-05-27,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00884.html,3
+Whitman; Walt,Sawyer; Thomas P.,38.896177,-77.036476,40.680048,-73.94318,1863-05-27,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00182.html,1
+Barker; John J.,Whitman; Walt,36.162664,-86.781602,38.896177,-77.036476,1863-06-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00124.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-06-09,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00773.html,1
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-06-13,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00415.html,2
+Barker; John J.,Whitman; Walt,36.162664,-86.781602,38.896177,-77.036476,1863-06-19,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00125.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-06-22,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00774.html,1
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-06-30,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00183.html,1
+Wallace; Will W.,Whitman; Walt,36.162664,-86.781602,38.896177,-77.036476,1863-07-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00140.html,3
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-07-01,,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-07-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00416.html,2
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-07-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00775.html,1
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-07-08,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00417.html,2
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-07-10,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00776.html,1
+Brown; Lewis K.,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1863-07-10,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00126.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-07-15,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00777.html,1
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-07-19,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00418.html,2
+Small; Alvah H.,Whitman; Walt,41.24119,-77.001079,38.896177,-77.036476,1863-07-24,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00141.html,4
+Whitman; Walt,Haskell; Samuel B.,38.896177,-77.036476,43.48,-72.386568,1863-07-27,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyh.00001.html,1
+Brown; Lewis K.,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1863-07-27,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00127.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-07-28,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/med.00302.html,1
+Vandemark; William E.,Whitman; Walt,43.16103,-77.610922,38.896177,-77.036476,1863-07-31,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00128.html,4
+Whitman; Walt,Brown; Lewis K.,38.896177,-77.036476,38.896177,-77.036476,1863-08-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00886.html,1
+Whitman; Walt,Sawyer; Thomas P.,38.896177,-77.036476,40.680048,-73.94318,1863-08-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00184.html,1
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-08-01,,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-08-04,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00419.html,2
+Whitman; Walt,Redpath; James,38.896177,-77.036476,42.358761,-71.063832,1863-08-06,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00778.html,1
+Whitman; Walt,Fritsch; Hugo,38.896177,-77.036476,40.680048,-73.94318,1863-08-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00780.html,1
+Whitman; Walt,Haskell; Samuel B.,38.896177,-77.036476,43.48,-72.386568,1863-08-10,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyh.00002.html,1
+Brown; Lewis K.,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1863-08-10,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00142.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-08-11,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00781.html,1
+Whitman; Walt,Brown; Lewis K.,38.896177,-77.036476,38.896177,-77.036476,1863-08-11,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00887.html,1
+Whitman; Walt,Bloom; Nathaniel,38.896177,-77.036476,40.680048,-73.94318,1863-08-15,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00782.html,1
+Whitman; Walt,Brown; Lewis K.,38.896177,-77.036476,38.896177,-77.036476,1863-08-15,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00888.html,1
+Vandemark; William E.,Whitman; Walt,43.16103,-77.610922,38.896177,-77.036476,1863-08-17,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00129.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-08-18,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00783.html,1
+Babbitt; Mary A.; Babbitt; Caleb H.,Whitman; Walt,42.422905,-72.1051,38.896177,-77.036476,1863-08-18,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00143.html,4
+Brown; Lewis K.,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1863-08-22,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00130.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-08-25,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00784.html,1
+Scott; C.L.,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1863-08-31,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00144.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-09-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00785.html,1
+Whitman; Walt,Babbitt; Mary A.,38.896177,-77.036476,42.422905,-72.1051,1863-09-03,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00786.html,1
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-09-03,,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-09-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00420.html,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-09-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00421.html,2
+Whitman; Walt,Bloom; Nathaniel,38.896177,-77.036476,40.680048,-73.94318,1863-09-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/uro.00001.html,1
+Babbitt; Mary A.,Whitman; Walt,42.422905,-72.1051,38.896177,-77.036476,1863-09-06,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00145.html,4
+Whitman; Walt,Gregg; Miss,38.896177,-77.036476,38.896177,-77.036476,1863-09-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00787.html,1
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-09-08,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00788.html,1
+Whitman; Walt,Haskell; Samuel B.,38.896177,-77.036476,43.48,-72.386568,1863-09-09,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyh.00003.html,1
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-09-15,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00789.html,1
+Whitman; Walt,Smith; Bethuel,38.896177,-77.036476,40.201009,-77.200272,1863-09-16,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00790.html,1
+Smith; Bethuel,Whitman; Walt,40.201009,-77.200272,38.896177,-77.036476,1863-09-17,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00596.html,4
+Smith; Bethuel,Whitman; Walt,40.201009,-77.200272,38.896177,-77.036476,1863-09-17,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00597.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-09-18,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/med.00318.html,1
+Babbitt; Caleb H.,Whitman; Walt,42.422905,-72.1051,38.896177,-77.036476,1863-09-18,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00146.html,4
+Russell; Le Baron,Whitman; Walt,42.358761,-71.063832,38.896177,-77.036476,1863-09-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00166.html,3
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-09-22,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00422.html,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-09-24,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00423.html,2
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-09-25,,2
+Smith; Bethuel,Whitman; Walt,40.201009,-77.200272,38.896177,-77.036476,1863-09-28,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00598.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-09-29,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00791.html,1
+Whitman; Walt,Davis; William S.,38.896177,-77.036476,42.262593,-71.802293,1863-10-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00792.html,1
+Curtis; Margaret S.,Whitman; Walt,42.358761,-71.063832,38.896177,-77.036476,1863-10-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00400.html,3
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-10-01,,2
+Whitman; Walt,Curtis; Margaret S.,38.896177,-77.036476,42.358761,-71.063832,1863-10-04,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00793.html,1
+Russell; Le Baron,Whitman; Walt,42.358761,-71.063832,38.896177,-77.036476,1863-10-04,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00167.html,3
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-10-06,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00794.html,1
+Russell; Le Baron,Whitman; Walt,42.358761,-71.063832,38.896177,-77.036476,1863-10-06,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00168.html,3
+Stevenson; Hannah E.,Whitman; Walt,42.358761,-71.063832,38.896177,-77.036476,1863-10-06,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00404.html,3
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-10-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00424.html,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-10-08,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00425.html,2
+Whitman; Walt,Fritsch; Hugo,38.896177,-77.036476,40.680048,-73.94318,1863-10-08,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00795.html,1
+Whitman; Walt,Stevenson; Hannah E.,38.896177,-77.036476,42.358761,-71.063832,1863-10-08,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00796.html,1
+Whitman; Walt,Redpath; James,38.896177,-77.036476,42.358761,-71.063832,1863-10-12,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00797.html,1
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-10-13,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00798.html,1
+Smith; Bethuel,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1863-10-13,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00889.html,4
+Stillwell; Julia,Whitman; Walt,39.952052,-75.161986,38.896177,-77.036476,1863-10-13,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00147.html,3
+Redpath; James,Whitman; Walt,42.358761,-71.063832,38.896177,-77.036476,1863-10-14,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.01009.html,3
+Redpath; James,Whitman; Walt,42.358761,-71.063832,38.896177,-77.036476,1863-10-14,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/yal.00103.html,3
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-10-15,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00426.html,2
+Babbitt; Caleb H.,Whitman; Walt,42.422905,-72.1051,38.896177,-77.036476,1863-10-18,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00148.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-10-20,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00799.html,1
+Stillwell; John; Stillwell; Margaret,Whitman; Walt,39.952052,-75.161986,38.896177,-77.036476,1863-10-20,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00149.html,3
+Whitman; Walt,Stilwell; Julia Elizabeth,38.896177,-77.036476,39.952052,-75.161986,1863-10-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00379.html,1
+Whitman; Walt,Redpath; James,38.896177,-77.036476,42.358761,-71.063832,1863-10-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/yal.00093.html,1
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-10-22,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00427.html,2
+Stillwell; Margaret,Whitman; Walt,39.952052,-75.161986,38.896177,-77.036476,1863-10-25,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00448.html,3
+Childs; S.H.; Babbitt; Caleb H.,Whitman; Walt,42.358761,-71.063832,38.896177,-77.036476,1863-10-26,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00150.html,4
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-10-26,,2
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-10-27,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00800.html,1
+Whitman; Walt,Curtis; Margaret S.,38.896177,-77.036476,42.358761,-71.063832,1863-10-28,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00801.html,1
+Redpath; James,Whitman; Walt,42.358761,-71.063832,38.896177,-77.036476,1863-10-28,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/med.00320.html,3
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-11-01,,2
+Vandemark; William E.,Whitman; Walt,40.906102,-73.78521,38.896177,-77.036476,1863-11-02,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00131.html,4
+Brown; Lewis K.,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1863-11-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00132.html,4
+Fox; Elijah Douglass,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1863-11-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00133.html,4
+Whitman; Walt,Brown; Lewis K.,40.678145,-73.944467,38.896177,-77.036476,1863-11-08,,1
+Russell; Le Baron,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1863-11-08,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00134.html,3
+O'Connor; Ellen M.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1863-11-10,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00940.html,3
+Fox; Elijah Douglass,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1863-11-10,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00151.html,4
+McFarland; William H.,Whitman; Walt,43.012498,-89.28984,40.678145,-73.944467,1863-11-11,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00135.html,4
+Brown; Lewis K.,Whitman; Walt,40.678145,-73.944467,40.678145,-73.944467,1863-11-13,,4
+Whitman; Walt,O'Connor; Ellen M.,40.678145,-73.944467,38.896177,-77.036476,1863-11-15,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00185.html,1
+Whitman; Walt,Eldridge; Charles W.,40.678145,-73.944467,42.358761,-71.063832,1863-11-17,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00215.html,1
+Whitman; Walt,Sawyer; Thomas P.,40.678145,-73.944467,40.680048,-73.94318,1863-11-20,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00186.html,1
+Whitman; Walt,Fox; Elijah Douglass,40.678145,-73.944467,42.2012,-85.58,1863-11-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00803.html,1
+O'Connor; Ellen M.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1863-11-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00941.html,3
+Brooks; Livingston J.,Whitman; Walt,39.952584,-75.165222,40.678145,-73.944467,1863-11-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00152.html,4
+O'Connor; Ellen M.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1863-11-24,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00942.html,3
+Whitman; Walt,Russell; Le Baron,38.896177,-77.036476,42.358761,-71.063832,1863-12-03,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/clc.00001.html,1
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-12-03,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00428.html,2
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-12-05,,2
+Whitman; Walt,Whitman; George Washington,38.896177,-77.036476,37.113553,-76.486965,1863-12-06,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00804.html,1
+Vandemark; William E.,Whitman; Walt,40.906102,-73.78521,38.896177,-77.036476,1863-12-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00137.html,4
+Fox; Elijah Douglass,Whitman; Walt,41.0192,-89.944,38.896177,-77.036476,1863-12-09,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00600.html,4
+Shillaber; Benjamin Penhallow,Whitman; Walt,42.358761,-71.063832,38.896177,-77.036476,1863-12-10,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00865.html,3
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-12-15,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00429.html,2
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1863-12-15,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00805.html,1
+Smith; Bethuel,Whitman; Walt,38.47336,-77.994393,38.896177,-77.036476,1863-12-16,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00601.html,4
+Vandemark; William E.,Whitman; Walt,40.906102,-73.78521,38.896177,-77.036476,1863-12-16,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00153.html,4
+Trowbridge; John T.,Whitman; Walt,42.358761,-71.063832,38.896177,-77.036476,1863-12-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00876.html,3
+Brooks; Livingston J.,Whitman; Walt,39.952584,-75.165222,38.896177,-77.036476,1863-12-22,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00138.html,4
+Bush; Alonzo S.,Whitman; Walt,34.2284,-92.0032,38.896177,-77.036476,1863-12-22,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/yal.00089.html,4
+Fox; Elijah Douglass,Whitman; Walt,41.0192,-89.944,38.896177,-77.036476,1863-12-24,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00139.html,4
+Vandemark; William E.,Whitman; Walt,40.556459,-78.097785,38.896177,-77.036476,1863-12-25,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00154.html,4
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-12-25,,2
+Whitman; Walt,Trowbridge; John Townsend,38.896177,-77.036476,42.358761,-71.063832,1863-12-27,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/med.00304.html,1
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1863-12-28,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00430.html,2
+Stillwell; Margaret,Whitman; Walt,39.952052,-75.161986,38.896177,-77.036476,1863-12-28,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00155.html,3
+Vandemark; William E.,Whitman; Walt,40.556459,-78.097785,38.896177,-77.036476,1863-12-29,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00156.html,4
+Trowbridge; John T.,Whitman; Walt,42.358761,-71.063832,38.896177,-77.036476,1863-12-30,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/med.00321.html,3
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1864-01-08,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00431.html,2
+Millis Sr.; William H.,Whitman; Walt,38.742614,-75.604371,38.896177,-77.036476,1864-01-09,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00157.html,4
+Sawyer; Thomas P.,Whitman; Walt,40.680048,-73.94318,38.896177,-77.036476,1864-01-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00158.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-01-29,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00807.html,1
+Whitman; Walt,Russell; Le Baron,38.896177,-77.036476,42.358761,-71.063832,1864-02-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00380.html,1
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-02-02,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00808.html,1
+Neat; Thomas B.,Whitman; Walt,40.680048,-73.94318,38.896177,-77.036476,1864-02-02,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00159.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-02-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00809.html,1
+Whitman; Walt,Trowbridge; John Townsend,38.473,-77.9963,42.358761,-71.063832,1864-02-08,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/med.00305.html,1
+Bush; Alonzo S.,Whitman; Walt,34.2284,-92.0032,38.896177,-77.036476,1864-02-11,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00140.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-02-12,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00810.html,1
+Trowbridge; John T.,Whitman; Walt,42.358761,-71.063832,38.896177,-77.036476,1864-02-12,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00875.html,3
+Liebenau; Andrew J.,Whitman; Walt,40.680048,-73.94318,38.896177,-77.036476,1864-02-20,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00141.html,4
+Smith; Bethuel,Whitman; Walt,38.47336,-77.994393,38.896177,-77.036476,1864-02-28,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00602.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-03-02,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00811.html,1
+Larr; Alfred L.,Whitman; Walt,34.2284,-92.0032,38.896177,-77.036476,1864-03-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00142.html,4
+Bush; Alonzo S.,Whitman; Walt,34.2284,-92.0032,38.896177,-77.036476,1864-03-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00143.html,4
+Jellison; W.A.,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1864-03-09,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00144.html,4
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1864-03-11,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00432.html,2
+Whitman; Walt,Lane; Moses,38.896177,-77.036476,40.678145,-73.944467,1864-03-13,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00187.html,1
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-03-15,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00812.html,1
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1864-03-19,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00311.html,2
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-03-22,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00813.html,1
+Worster; Rodney R.,Whitman; Walt,29.951066,-90.071532,38.896177,-77.036476,1864-03-28,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00160.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-03-29,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00814.html,1
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-03-31,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00815.html,1
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-04-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00816.html,1
+Vandemark; William E.,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1864-04-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.01010.html,4
+Whitman; Walt,Whitman; George Washington,38.896177,-77.036476,37.113553,-76.486965,1864-04-09,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/mhs.00005.html,1
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-04-10,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00817.html,1
+Whitman; George Washington,Whitman; Walt,38.978386,-76.491721,38.896177,-77.036476,1864-04-16,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00352.html,2
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-04-19,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00818.html,1
+Briggs; Lucia Jane Russell,Whitman; Walt,42.519835,-70.896334,38.896177,-77.036476,1864-04-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00155.html,3
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-04-26,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00819.html,1
+Whitman; Walt,Briggs; Lucia Jane Russell,38.896177,-77.036476,42.519835,-70.896334,1864-04-26,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/prc.00007.html,1
+Whitman; Walt,Kirkwood; James P.,38.896177,-77.036476,40.678145,-73.944467,1864-04-27,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00820.html,1
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-04-28,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00821.html,1
+Whitman; George Washington,Whitman; Walt,38.727245,-77.544235,38.896177,-77.036476,1864-04-29,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00353.html,2
+Farwell; Ruben,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1864-04-30,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00368.html,4
+Farwell; Ruben,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1864-04-30,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00385.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-05-03,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00822.html,1
+Farwell; Ruben,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1864-05-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00369.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-05-06,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00823.html,1
+Linensparger; Isaac,Whitman; Walt,40.96507,-83.017191,38.896177,-77.036476,1864-05-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00161.html,4
+Gray; John F.S.,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1864-05-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00162.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-05-09,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00824.html,1
+Cunningham; Helen S.,Whitman; Walt,40.298672,-83.067965,38.896177,-77.036476,1864-05-09,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00145.html,3
+Farwell; Ruben,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1864-05-10,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00370.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-05-10,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00825.html,1
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-05-12,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00826.html,1
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-05-13,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00827.html,1
+Smith; Aaron,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1864-05-14,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00228.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-05-18,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00828.html,1
+Whitman; Walt,Trowbridge; John Townsend,38.896177,-77.036476,42.358761,-71.063832,1864-05-20,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/sta.00001.html,1
+Whitman; Walt,Whitman; Thomas Jefferson,38.896177,-77.036476,40.678145,-73.944467,1864-05-23,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00829.html,1
+Worthen; W. E.,Whitman; Walt,40.680048,-73.94318,38.896177,-77.036476,1864-05-23,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00879.html,3
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-05-25,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00830.html,1
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-05-30,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00831.html,1
+Harris; Charles H.,Whitman; Walt,42.855672,-72.603064,38.896177,-77.036476,1864-05-30,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00163.html,4
+Boyd; Justus F.,Whitman; Walt,42.735414,-83.982419,38.896177,-77.036476,1864-06-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/tex.00146.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-06-03,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00832.html,1
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-06-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00833.html,1
+Farwell; Reuben,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1864-06-08,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00371.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-06-10,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00834.html,1
+Cunningham; Helen S.,Whitman; Walt,40.298672,-83.067965,38.896177,-77.036476,1864-06-11,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00164.html,3
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-06-14,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00835.html,1
+Farwell; Reuben,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1864-06-16,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00372.html,4
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1864-06-17,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00836.html,1
+Whitman; Walt,O'Connor; William D.,40.678145,-73.944467,38.896177,-77.036476,1864-06-25,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00188.html,1
+Burroughs; John,Whitman; Walt,41.959263,-74.247527,40.678145,-73.944467,1864-06-28,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00850.html,3
+Whitman; Walt,Eldridge; Charles W.,40.678145,-73.944467,42.358761,-71.063832,1864-06-28,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/uva.00346.html,1
+O'Connor; William D.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-07-02,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/med.00323.html,3
+O'Connor; Ellen M.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-07-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00943.html,3
+Whitman; Walt,O'Connor; William D.,40.678145,-73.944467,38.896177,-77.036476,1864-07-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00189.html,1
+Stillwell; James S.,Whitman; Walt,39.952052,-75.161986,40.678145,-73.944467,1864-07-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00449.html,4
+Brown; Lewis K.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-07-06,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00165.html,4
+Whitman; Walt,Eldridge; Charles W.,40.678145,-73.944467,42.358761,-71.063832,1864-07-09,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/yal.00094.html,1
+Whitman; Walt,Brown; Lewis K.,40.678145,-73.944467,38.896177,-77.036476,1864-07-11,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00190.html,1
+Smith; Aaron,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-07-13,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00229.html,4
+Fox; Elijah Douglass,Whitman; Walt,41.0192,-89.944,40.678145,-73.944467,1864-07-14,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00166.html,4
+O'Connor; Ellen M.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-07-18,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00944.html,3
+Brown; Lewis K.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-07-18,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00167.html,4
+O'Connor; Ellen M.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-07-24,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00945.html,3
+Whitman; Walt,O'Connor; William D.,40.678145,-73.944467,38.896177,-77.036476,1864-07-24,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00191.html,1
+Burroughs; John,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-08-02,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00851.html,3
+O'Connor; William D.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-08-13,,3
+O'Connor; William D.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-08-13,,3
+O'Connor; Ellen M.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-08-18,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00946.html,3
+Smith; Christopher; Smith; Maria,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-08-29,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00603.html,3
+Smith; Bethuel,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-08-30,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00604.html,4
+Stillwell; James S.,Whitman; Walt,39.952052,-75.161986,40.678145,-73.944467,1864-09-02,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00168.html,4
+Brown; Lewis K.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-09-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00169.html,4
+Harris; Joseph,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-09-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00170.html,4
+Whitman; Walt,O'Connor; Ellen M.,40.678145,-73.944467,38.896177,-77.036476,1864-09-11,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00192.html,1
+Whitman; Walt,O'Connor; William D.,40.678145,-73.944467,38.896177,-77.036476,1864-09-11,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00193.html,1
+Smith; Lizzie H.,Whitman; Walt,37.22788,-77.402392,40.678145,-73.944467,1864-09-17,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00230.html,3
+Boyd; Justus F.,Whitman; Walt,42.735414,-83.982419,40.678145,-73.944467,1864-09-18,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00171.html,4
+Stillwell; James S.,Whitman; Walt,39.952052,-75.161986,40.678145,-73.944467,1864-09-27,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00172.html,4
+Whitman; Walt,Editors of the New York Times,40.678145,-73.944467,40.680048,-73.94318,1864-10-01,,1
+Farwell; Reuben,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-10-02,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00374.html,4
+Whitman; Walt,Eldridge; Charles W.,40.678145,-73.944467,42.358761,-71.063832,1864-10-08,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/yal.00095.html,1
+Heyde; Hannah,Whitman; Walt,44.475929,-73.212229,40.678145,-73.944467,1864-10-17,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.01001.html,3
+Babcock; William E.,Whitman; Walt,37.545031,-77.056482,40.678145,-73.944467,1864-10-18,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00224.html,4
+Mullery; William,Whitman; Walt,41.194702,-74.493794,40.678145,-73.944467,1864-10-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00173.html,3
+Smith; Bethuel,Whitman; Walt,43.353789,-73.67829,40.678145,-73.944467,1864-10-22,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00882.html,4
+Farwell; Reuben,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-11-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00375.html,4
+Farwell; Reuben,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-11-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00376.html,4
+Mullery; Jesse,Whitman; Walt,41.194702,-74.493794,40.678145,-73.944467,1864-11-26,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00174.html,4
+O'Connor; Ellen M.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-11-30,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00947.html,3
+Whitman; Walt,O'Connor; Ellen M.,40.678145,-73.944467,38.896177,-77.036476,1864-12-04,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00194.html,1
+Babcock; William E.,Whitman; Walt,37.545031,-77.056482,40.678145,-73.944467,1864-12-12,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00225.html,4
+Mullery; Jesse,Whitman; Walt,41.194702,-74.493794,40.678145,-73.944467,1864-12-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00218.html,4
+Babcock; William E.,Whitman; Walt,37.545031,-77.056482,40.678145,-73.944467,1864-12-25,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00226.html,4
+Whitman; Walt,[Editor],40.678145,-73.944467,,,1864-12-29,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00837.html,1
+O'Connor; William D.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1864-12-30,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.01818.html,3
+Wright; David F.,Whitman; Walt,40.680048,-73.94318,40.678145,-73.944467,1865-01-04,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00231.html,4
+Trowbridge; John T.,Whitman; Walt,42.358761,-71.063832,40.678145,-73.944467,1865-01-06,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00874.html,3
+Whitman; Walt,O'Connor; William D.,40.678145,-73.944467,38.896177,-77.036476,1865-01-06,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00196.html,1
+Storms; Herman,Whitman; Walt,41.001004,-74.058207,40.678145,-73.944467,1865-01-11,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00175.html,3
+Millis; William H.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1865-01-12,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00176.html,4
+Otto; William T.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1865-01-12,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00219.html,3
+O'Connor; Ellen M.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1865-01-19,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00654.html,3
+Whitman; Walt,O'Connor; William D.,40.678145,-73.944467,38.896177,-77.036476,1865-01-20,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00197.html,1
+Smith; Aaron,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1865-01-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00867.html,4
+Babcock; William E.,Whitman; Walt,37.545031,-77.056482,40.678145,-73.944467,1865-01-21,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.01069.html,4
+Mullery; Jesse,Whitman; Walt,41.194702,-74.493794,38.896177,-77.036476,1865-01-23,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00177.html,4
+Otto; William T.,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1865-01-24,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00220.html,3
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-01-26,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00433.html,2
+Smith; Christopher; Smith; Maria,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1865-01-26,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00605.html,3
+Whitman; Walt,Whitman; Thomas Jefferson,38.896177,-77.036476,40.678145,-73.944467,1865-01-30,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00838.html,1
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-01-31,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00434.html,2
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1865-02-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00839.html,1
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-02-01,,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-02-03,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00435.html,2
+Whitman; Walt,Swinton; John,38.896177,-77.036476,40.680048,-73.94318,1865-02-03,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/med.00306.html,1
+Whitman; Walt,Price; Abby H.,38.896177,-77.036476,40.678145,-73.944467,1865-02-04,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/pml.00013.html,1
+Swinton; John,Whitman; Walt,40.680048,-73.94318,38.896177,-77.036476,1865-02-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00870.html,4
+Whitman; Walt,Trowbridge; John Townsend,38.896177,-77.036476,42.358761,-71.063832,1865-02-06,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00307.html,1
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-02-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00436.html,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-02-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00436.html,2
+Shepard; Elliot F.,Whitman; Walt,40.680048,-73.94318,38.896177,-77.036476,1865-02-16,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00864.html,4
+Mason; Julius W.,Whitman; Walt,37.311239,-77.272394,38.896177,-77.036476,1865-02-16,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/yal.00100.html,4
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-02-26,,2
+Whitman; Walt,Cook; William,38.896177,-77.036476,38.978445,-76.492183,1865-02-27,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00840.html,1
+Whitman; Walt,Trowbridge; John Townsend,38.896177,-77.036476,42.358761,-71.063832,1865-03-03,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/sta.00002.html,1
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-03-05,http://whitman-dev.unl.edu/biography/correspondence/tei/duk.00435.html,2
+Burr; Celie M.,Whitman; Walt,42.728134,-73.691935,38.896177,-77.036476,1865-03-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00849.html,3
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-03-07,,2
+Whitman; Walt,Wright; David F.,38.896177,-77.036476,40.680048,-73.94318,1865-03-13,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/med.00308.html,1
+Whitman; Walt,O'Connor; William D.; O'Connor; Ellen M.,40.678145,-73.944467,38.896177,-77.036476,1865-03-26,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00198.html,1
+Eckler; Peter,Whitman; Walt,40.680048,-73.94318,38.896177,-77.036476,1865-04-22,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00853.html,5
+Eckler; Peter,Whitman; Walt,40.680048,-73.94318,38.896177,-77.036476,1865-04-26,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00880.html,5
+Eckler; Peter,Whitman; Walt,40.680048,-73.94318,38.896177,-77.036476,1865-05-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00854.html,5
+Whitman; Walt,Irwin; Mrs.,38.896177,-77.036476,40.340925,-76.41135,1865-05-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/med.00310.html,1
+Whitman; Walt,Eckler; Peter,38.896177,-77.036476,40.680048,-73.94318,1865-05-02,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/rut.00002.html,1
+Whitman; Walt,Eckler; Peter,38.896177,-77.036476,40.680048,-73.94318,1865-05-03,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00841.html,1
+Mullery; Jesse,Whitman; Walt,41.194702,-74.493794,38.896177,-77.036476,1865-05-03,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00178.html,4
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-05-04,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00437.html,2
+Whitman; Walt,Howard; Garaphelia,38.896177,-77.036476,38.896177,-77.036476,1865-05-04,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00713.html,1
+Eckler; Peter,Whitman; Walt,40.680048,-73.94318,38.896177,-77.036476,1865-05-04,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00855.html,5
+Otto; William T.,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1865-05-11,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00221.html,3
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-05-14,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00438.html,2
+Whitman; Walt,Whitman; Louisa Van Velsor,38.896177,-77.036476,40.678145,-73.944467,1865-05-25,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/wwh.00008.html,1
+Reed; Milford C.,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1865-05-26,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/yal.00090.html,4
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-06-03,,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-06-04,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00439.html,2
+Whitman; Walt,Swinton; John,38.896177,-77.036476,40.680048,-73.94318,1865-06-09,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/med.00312.html,1
+Whitman; Walt,Pratt; N. M.; Pratt; John B.,38.896177,-77.036476,40.356424,-74.652989,1865-06-10,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00842.html,1
+Mullery; Jesse,Whitman; Walt,40.735657,-74.172367,38.896177,-77.036476,1865-06-11,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00179.html,4
+Richardson; Kate,Whitman; Walt,42.359599,-71.107683,38.896177,-77.036476,1865-06-18,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00881.html,3
+Palmer; Nicholas D.,Whitman; Walt,38.249142,-85.757803,38.896177,-77.036476,1865-06-24,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00858.html,4
+Harlan; James,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1865-06-30,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00222.html,3
+Whitman; George Washington,Whitman; Walt,38.804877,-77.047593,38.896177,-77.036476,1865-07-14,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/duk.00367.html,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-07-16,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00440.html,2
+Stewart; William,Whitman; Walt,38.896177,-77.036476,38.896177,-77.036476,1865-07-17,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/yal.00091.html,4
+Van Rensellaer; A.,Whitman; Walt,40.680048,-73.94318,38.896177,-77.036476,1865-07-30,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00223.html,3
+Pratt; Alfred,Whitman; Walt,40.356424,-74.652989,38.896177,-77.036476,1865-08-07,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00606.html,4
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-08-08,,2
+Ryder; Anson Jr.,Whitman; Walt,44.348621,-75.26152,38.896177,-77.036476,1865-08-09,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00607.html,4
+Whitman; Walt,Ryder; Anson Jr.,38.804877,-77.047593,44.348621,-75.26152,1865-08-15,,1
+Bainbridge; William F.,Whitman; Walt,37.540725,-77.436048,38.896177,-77.036476,1865-08-23,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/yal.00092.html,4
+Ryder; Anson Jr.,Whitman; Walt,44.348621,-75.26152,38.896177,-77.036476,1865-08-25,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00608.html,4
+Whitman; Walt,Pratt; Alfred,38.804877,-77.047593,40.356424,-74.652989,1865-08-26,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00843.html,1
+Whitman; Walt,Sutherland; Byron,38.804877,-77.047593,42.209774,-79.466844,1865-08-26,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/sjs.00001.html,1
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-08-29,,2
+Whitman; Walt,Trowbridge; John T.,38.804877,-77.047593,42.358761,-71.063832,1865-08-31,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/har.00053.html,1
+Sutherland; Byron,Whitman; Walt,42.209774,-79.466844,38.896177,-77.036476,1865-09-05,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00609.html,4
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-09-05,,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-09-11,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00441.html,2
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-09-11,,2
+Simpson; Abraham,Whitman; Walt,40.680048,-73.94318,38.896177,-77.036476,1865-09-20,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00866.html,5
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-09-21,,2
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-09-27,,2
+Whitman; Thomas Jefferson,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-09-29,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00442.html,2
+Whitman; Walt,O'Connor; Ellen M.,40.678145,-73.944467,38.896177,-77.036476,1865-10-12,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00200.html,1
+Whitman; Walt,Sutherland; Byron,40.678145,-73.944467,42.209774,-79.466844,1865-10-15,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/med.00313.html,1
+O'Connor; Ellen M.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1865-10-17,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00948.html,3
+O'Connor; William D.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1865-10-19,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.01819.html,3
+Whitman; Walt,O'Connor; Ellen M.,40.678145,-73.944467,38.896177,-77.036476,1865-10-20,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/nyp.00201.html,1
+Ryder; Anson Jr.,Whitman; Walt,44.348621,-75.26152,40.678145,-73.944467,1865-10-22,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00610.html,4
+Whitman; Walt,Kerr; Andrew,40.678145,-73.944467,38.896177,-77.036476,1865-10-29,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/uva.00347.html,1
+O'Connor; Ellen M.,Whitman; Walt,38.896177,-77.036476,40.678145,-73.944467,1865-11-01,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00949.html,3
+Wilson; Benton H.,Whitman; Walt,43.0481,-76.1474,40.678145,-73.944467,1865-11-11,http://whitman-dev.unl.edu/biography/correspondence/cw/tei/loc.00611.html,4
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-11-14,,2
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-11-25,,2
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-12-03,,2
+Whitman; Louisa Van Velsor,Whitman; Walt,40.678145,-73.944467,38.896177,-77.036476,1865-12-10,,2
