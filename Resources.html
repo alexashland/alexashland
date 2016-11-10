@@ -192,6 +192,19 @@ Released for free under the Creative Commons Attribution 3.0 license (templated.
 			</ul>
 		</header>
 
+		<!-- Javascript -->
+
+		<script type="text/javascript">
+		$('img').mouseover(function(){
+			$(this).css('opacity','.2');
+			$(this).next('span.text').show();
+		}).mouseout(function(){
+			$(this).css('opacity','1');
+			$(this).next('span.text').hide();
+		});
+		</script>
+
+
 	<!-- Main -->
 	<section id="main" class="wrapper style1">
 		<header class="major">
@@ -336,18 +349,6 @@ Released for free under the Creative Commons Attribution 3.0 license (templated.
 								</ul>
 							</div>
 						</footer>
-
-						<!-- Javascript -->
-
-						<script type="text/javascript">
-						$('img').mouseover(function(){
-							$(this).css('opacity','.2');
-							$(this).next('span.text').show();
-						}).mouseout(function(){
-							$(this).css('opacity','1');
-							$(this).next('span.text').hide();
-						});
-						</script>
 
 					</body>
 					</html>
