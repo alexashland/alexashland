@@ -1028,6 +1028,14 @@
 			color: #666f77 !important;
 		}
 
+		input[type="submit"].alt2,
+		input[type="reset"].alt2,
+		input[type="button"].alt2,
+		.button.alt2 {
+			background-color: #EAC638;
+			color: #ffffff !important;
+		}
+
 			input[type="submit"].alt:hover,
 			input[type="reset"].alt:hover,
 			input[type="button"].alt:hover,
